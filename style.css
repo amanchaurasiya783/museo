@@ -141,7 +141,7 @@ hr{
 	box-sizing: border-box;
 	overflow: hidden;
 	margin: 15px;
-	width: 1100px;
+	max-width: 1100px;
 	height: 190px;
 	border-radius: 25px;
 }
