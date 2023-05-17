@@ -233,6 +233,9 @@ p{
 		grid-template-columns: 1fr;
 		grid-template-rows: 1fr;
 	}
+	.box2align{
+		flex-flow: column nowrap;
+	}
 
 	.item, .contact{
 		display: none;
